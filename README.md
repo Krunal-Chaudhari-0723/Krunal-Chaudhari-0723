@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00f5d4?style=for-the-badge&labelColor=0a1628&color=00f5d4)](https://portfolio-krunal.netlify.app/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00f5d4?style=for-the-badge&labelColor=0a1628&color=00f5d4)](wwww.krunalchaudhari.dev)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1628)](https://www.linkedin.com/in/krunal-chaudhari-2b9ab5354/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1628)](mailto:chaudharikrunal0223@gmail.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a1628)](https://www.instagram.com/krunal_chaudhari.dev)&nbsp;
